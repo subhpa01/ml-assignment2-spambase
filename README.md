@@ -20,7 +20,7 @@ Classify an email as **spam (1)** or **not spam (0)** from numeric text features
 
 https://github.com/subhpa01/ml-assignment2-spambase
 
-Live Streamlit app: `<paste your Streamlit Community Cloud URL here>`
+Live Streamlit app: https://ml-assignment2-spambase-qoxm3g3pq28b6oefvchqwz.streamlit.app/
 
 ```
 assignment2/
