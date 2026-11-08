@@ -39,7 +39,7 @@ assignment2/
 
 ## d. Models used
 
-Test-set results (921 emails), computed from the saved models trained on Google Colab (scikit-learn 1.6.1).
+Test-set results (921 emails), computed from the saved models trained with the included notebook (scikit-learn 1.7.2).
 
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
 |---|---|---|---|---|---|---|

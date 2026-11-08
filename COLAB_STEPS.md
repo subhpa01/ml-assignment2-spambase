@@ -121,7 +121,7 @@ Take a screenshot of the metrics table and plots for your own record. This does 
 Saved `.joblib` files load safely only with the scikit-learn version that saved them.
 
 1. Take the version printed in Section 0 (for example `1.6.1`).
-2. Edit `requirements.txt` so the scikit-learn line reads `scikit-learn==1.6.1` (use your version).
+2. Edit `requirements.txt` so the scikit-learn line reads `scikit-learn==1.7.2` (use your version).
 
 Final `requirements.txt` (pin only scikit-learn):
 
