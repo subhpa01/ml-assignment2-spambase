@@ -18,7 +18,7 @@ Classify an email as **spam (1)** or **not spam (0)** from numeric text features
 
 ## c. GitHub repository link
 
-`<paste your GitHub repository URL here>`
+https://github.com/subhpa01/ml-assignment2-spambase
 
 Live Streamlit app: `<paste your Streamlit Community Cloud URL here>`
 
@@ -39,7 +39,7 @@ assignment2/
 
 ## d. Models used
 
-Test-set results (921 emails). **Replace these with the values your own Colab run prints, since small differences between scikit-learn versions can change them.**
+Test-set results (921 emails), computed from the saved models trained on Google Colab (scikit-learn 1.6.1).
 
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
 |---|---|---|---|---|---|---|
